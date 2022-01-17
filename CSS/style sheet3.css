@@ -1,0 +1,26 @@
+.social-media {
+	width: 100%;
+	color: #fff;
+	text-align: center;
+}
+.social-media a {
+	text-decoration: none;
+}
+.social-media i {
+	height: 15px;
+	width: 15px;
+	margin: 20px 5px;
+	padding: 10px;
+	color: #fff;
+	border-radius: 50%
+	border: 1px solid grey;
+	transition: 0.3s;
+	font-size: 30px;
+}
+.social-media:hover {
+	background: grey;
+
+}
+.footer-items:hover {
+	background: #ff0000;
+}
